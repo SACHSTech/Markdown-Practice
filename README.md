@@ -29,8 +29,10 @@ Make sure to **commit changes** at logical stages, such as when a particular sec
 <br>
 
 # Your Assignment
+There are two files for you to try formatting using Markdown. Both of these `.md` files contain all of the raw text (content) already. Refer to the screenshot and apply Markdown formatting syntax.
+
 ## Recreate the History of Hip Hop Music
-Use your knowledge of Markdown syntax to add formatting, links, and tables to the raw text found in the [HISTORY.md](HISTORY.md) file. It is meant to look a Wikipedia-style reference on the history of hip hop music.
+Add formatting, links, and tables to the raw text found in the [HISTORY.md](HISTORY.md) file. It is meant to look a Wikipedia-style reference on the history of hip hop music.
 
 For links to external images and videos, you can use the URLs provided in the text.
 
