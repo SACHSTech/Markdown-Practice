@@ -30,12 +30,14 @@ Make sure to **commit changes** at logical stages, such as when a particular sec
 
 # Your Assignment
 ## Recreate the History of Hip Hop Music
-Try to recreate [this file](screenshot_00-history_complete.jpg) on the history of hip hop music by using raw Markdown syntax. 
+Use your knowledge of Markdown syntax to add formatting, links, and tables to the raw text found in the [HISTORY.md](HISTORY.md) file. For links to external images and videos, you can use the URLs provided in the text.
 
-Begin with the [HISTORY.md](HISTORY.md) file, which already contains the raw text for you. It's your job to add the formatting using the appropriate Markdown symbols.
+A screenshot of the formatted version can be found [here](screenshot_00-history_complete.jpg). 
+
+Edit and commit your changes directly to the `HISTORY.md` file.  
 
 <br>
 
 ## Additional Tricky Examples
-This [link](tricky-examples.md) has five more tricky examples of Markdown formatted text. Can you re-create them faithfully without looking up the syntax?
+This [file](TRICKY_EXAMPLES.md) has five more tricky examples of Markdown formatted text. Can you re-create them faithfully without looking up the syntax?
 
