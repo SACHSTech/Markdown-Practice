@@ -42,5 +42,5 @@ Edit and commit your changes directly to the `HISTORY.md` file.
 
 ## Additional Tricky Examples
 If you finish the 
-This [file](TRICKY_EXAMPLES.md) has five more tricky examples of Markdown formatted text. Can you re-create them faithfully without looking up the syntax?
+This [file](CHALLENGE.md) has five more tricky examples of Markdown formatted text. Can you re-create them faithfully without looking up the syntax?
 
