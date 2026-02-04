@@ -40,7 +40,7 @@ Edit and commit your changes directly to the `HISTORY.md` file.
 
 <br>
 
-## Additional Tricky Examples
-If you finish the 
-This [file](CHALLENGE.md) has five more tricky examples of Markdown formatted text. Can you re-create them faithfully without looking up the syntax?
+## Additional Challenge
+If you finish the hip hop text early, try this additional challenge.
 
+This file [CHALLENGE.md](CHALLENGE.md) has raw text. Can you make this text look like the formatted screenshot shown [here](screenshot_00-challenge.jpg)? Pay attention to subtle details, such as `monospaced` or `code` text, as well as list indent levels!
