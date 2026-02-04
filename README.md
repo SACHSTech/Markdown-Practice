@@ -40,8 +40,6 @@ A screenshot of the formatted version can be found [here](screenshot_00-history_
 
 Edit and commit your changes directly to the `HISTORY.md` file.  
 
-<br>
-
 ## Additional Challenge
 If you finish the hip hop text early, try this additional challenge.
 
