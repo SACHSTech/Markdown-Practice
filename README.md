@@ -45,4 +45,6 @@ Edit and commit your changes directly to the `HISTORY.md` file.
 ## Additional Challenge
 If you finish the hip hop text early, try this additional challenge.
 
-This file [CHALLENGE.md](CHALLENGE.md) has raw text. Can you make this text look like the formatted screenshot shown [here](screenshot_00-challenge.jpg)? Pay attention to subtle details, such as `monospaced` or `code` text, as well as list indent levels!
+This file [CHALLENGE.md](CHALLENGE.md) contains the raw text. 
+
+Can you make this text look like the formatted screenshot shown [here](screenshot_00-challenge.jpg)? Pay attention to subtle details, such as `monospaced` or `code` text, as well as list indent levels!
